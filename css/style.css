@@ -1,0 +1,73 @@
+*::after,
+::before {
+  border: 1px solid tomato;
+}
+
+body {
+  font-family:  'Raleway' 'Roboto', sans-serif;
+	color: #2a2a2a;
+  background-color: #F4F4FD;
+  padding: 15;
+}
+
+.logo {
+  color: #2E2F42;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 116.667%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+}
+a > span {
+  color: #4D5AE5;
+}
+
+.link:hover {
+    color: #404BBF;
+  }
+  
+  .link:focus {
+    border: 1px dashed #9747FF;
+  }
+
+.header {
+    
+ 
+}
+.nav {
+color: #2E2F42;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height:  150%;
+letter-spacing: 0.32px;
+
+display:inline-block;
+}
+.studio {
+  display:inline-block;
+}
+.potfolio {
+  display:inline-block;
+}
+.contacts {
+  display:inline-block;
+}
+.section-first {
+  background: #2E2F42;
+}
+.button {
+  cursor: pointer;
+  
+}
+.contacts {
+  color: #434455;
+/* Body */
+font-size: 16px;
+font-style: normal;
+line-height: 150%;
+letter-spacing: 0.02em;
+}
+
